@@ -1,0 +1,2 @@
+# spotify-web3-dapp
+SPOTIFY WEB3 DAPP WITH NEXT.JS
